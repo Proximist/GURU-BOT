@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['919476452037', 'flash', true],
+  ['6281255369012', 'Ash', false], 
   [''] 
 ] //Number of owners
 
@@ -66,7 +66,7 @@ global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
-global.multiplier = 69 
+global.multiplier = 10000 
 global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
