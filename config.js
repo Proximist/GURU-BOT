@@ -66,7 +66,7 @@ global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
-global.multiplier = 10000 
+global.multiplier = 98 
 global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
